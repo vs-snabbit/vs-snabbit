@@ -41,9 +41,14 @@ Software engineer who enjoys building reliable, well-crafted systems and shippin
 
 ## 📊 GitHub Stats
 
-![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vs-snabbit&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vs-snabbit&layout=compact&theme=default&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vs-snabbit&theme=default&hide_border=true)
+<!-- Auto-generated daily by the github-profile-summary-cards workflow -->
+![](./profile-summary-card-output/default/0-profile-details.svg)
+
+![](./profile-summary-card-output/default/3-stats.svg)
+![](./profile-summary-card-output/default/4-productive-time.svg)
+
+![](./profile-summary-card-output/default/1-repos-per-language.svg)
+![](./profile-summary-card-output/default/2-most-commit-language.svg)
 
 ---
 
