@@ -54,7 +54,7 @@ Software engineer who enjoys building reliable, well-crafted systems and shippin
 
 ## 📌 Featured Projects
 
-> Pinned repositories on my profile — check them out below 👇
+> Check out my personal GitHub profile for more projects: [@mr-vaibh](https://github.com/mr-vaibh)
 
 ---
 
