@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/vs-snabbit/vs-snabbit/main/profile-summary-card-output/solarized_dark/4-productive-time.svg)
-```
-
-    
