@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/vs-snabbit/vs-snabbit/main/profile-summary-card-output/darcula/4-productive-time.svg)
+```
+
+    
